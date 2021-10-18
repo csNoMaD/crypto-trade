@@ -1,0 +1,15 @@
+Unesite Fee = 0.075
+Unesite SMAWindowStart = 2
+Unesite SMAWindowEnd = 71
+Unesite PeriodStart = 5
+Unesite PeriodEnd = 61
+Unesite PeriodKorak = 5
+Unesite BrojVrednosti = 262800 
+Unesite NumberOfDaysForTest = 72
+Unesite Cash = 51000
+Unesite broj kupljenih akcija\kripto = 1.05
+Unesite Putanju Do podataka = E:\David\Fax\Praksa\Data\Binance_BTCUSDT_minute.csv
+___________________________________________________
+
+Best Window is = 2
+Best Period is = 180
